@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arachn0taurus
+- 👋 Hi, I’m @arachnotaurus
 - 🌱 I’m currently learning full-stack development (HTML, CSS, JavaScript, SQL, DSA)
 - 📫 How to reach me: <a href="mailto:github.arachn0taurus.nanometer889@passmail.com">github.arachn0taurus.nanometer889@passmail.com</a>
 - 😄 Pronouns: he/him/his
